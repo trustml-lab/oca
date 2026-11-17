@@ -1,0 +1,69 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "q": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "a": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "whether_transformed": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "transformed_sequence": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "samples": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "question": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "answer": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "row_id": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "generated_sequence": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "scores": {
+      "feature": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "sample_score": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "label": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "logprobs": {
+      "feature": {
+        "dtype": "float64",
+        "_type": "Value"
+      },
+      "_type": "List"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

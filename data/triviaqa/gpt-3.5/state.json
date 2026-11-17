@@ -1,0 +1,35 @@
+{
+  "_data_files": [
+    {
+      "filename": "data-00000-of-00005.arrow"
+    },
+    {
+      "filename": "data-00001-of-00005.arrow"
+    },
+    {
+      "filename": "data-00002-of-00005.arrow"
+    },
+    {
+      "filename": "data-00003-of-00005.arrow"
+    },
+    {
+      "filename": "data-00004-of-00005.arrow"
+    }
+  ],
+  "_fingerprint": "eb95dba759b05e83",
+  "_format_columns": [
+    "question",
+    "answer",
+    "generated_sequence",
+    "transformed_sequence",
+    "logprobs",
+    "label",
+    "samples",
+    "scores",
+    "sample_score"
+  ],
+  "_format_kwargs": {},
+  "_format_type": null,
+  "_output_all_columns": false,
+  "_split": null
+}
